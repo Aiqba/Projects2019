@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4535e649-b143-4eee-af3e-c4aad33841c0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ecommerce/target/" />
+    <ignored path="$PROJECT_DIR$/generic/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webautomationtestnow2019" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/ContactUsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/NavSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Pageobjects/HomePage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/main/java/page/HomePage.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/Homebase.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/objects/SearchPage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/main/java/page/objects/HomePage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/objects/SearchPageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/objects/ContactUsPage.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/objects/ContactUsTest.java" />
+        <option value="$PROJECT_DIR$/generic/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/objects/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/reporting/TestLogger.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/onjects/HomePage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/UsingGoogleSheetLonginTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/application/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/application/SearchPageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/ContactUsTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/ContactUsPage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/ContactUsPageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/HomePage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/UsingGoogleSheetLoginPageTest.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/application/page/base/ApplicationPageBase.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/sheet/google/api/GoogleSheetReader.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/UgingGoogleSheetLoginPageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/FindAStorePage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/PageSource.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/PageSourceTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/LoginPage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/LoginpageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/resources/ecommercefile.xml" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/NavSearch.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/NaveSearchTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="52" />
+    <option name="y" value="457" />
+    <option name="width" value="1841" />
+    <option name="height" value="644" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549931651508" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ang43\Desktop\webautomationtesnow2019\ecommerce\src\test\resources" />
+      <recent name="C:\Users\ang43\Desktop\webautomationtesnow2019" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.page.objects" />
+      <recent name="sheet.google.api" />
+      <recent name="com.reader" />
+      <recent name="reporting" />
+      <recent name="base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ang43\Desktop\webautomationtesnow2019\ecommerce\src\test" />
+      <recent name="C:\Users\ang43\Desktop\webautomationtesnow2019\generic" />
+      <recent name="C:\Users\ang43\Desktop\webautomationtesnow2019\generic\src\test" />
+      <recent name="C:\Users\ang43\Desktop\webautomationtesnow2019\generic\src" />
+      <recent name="C:\Users\ang43\Desktop\webautomationtesnow2019\generic\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.PageSourceTest.searchSource">
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.page.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.page.objects" />
+      <option name="MAIN_CLASS_NAME" value="test.page.objects.HomePageTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.searchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.page.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.page.objects" />
+      <option name="MAIN_CLASS_NAME" value="test.page.objects.HomePageTest" />
+      <option name="METHOD_NAME" value="searchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginpageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.page.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.page.objects" />
+      <option name="MAIN_CLASS_NAME" value="test.page.objects.LoginpageTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaveSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.page.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.page.objects" />
+      <option name="MAIN_CLASS_NAME" value="test.page.objects.NaveSearchTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageSourceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.page.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.page.objects" />
+      <option name="MAIN_CLASS_NAME" value="test.page.objects.PageSourceTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageSourceTest.searchSource" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.page.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.page.objects" />
+      <option name="MAIN_CLASS_NAME" value="test.page.objects.PageSourceTest" />
+      <option name="METHOD_NAME" value="searchSource" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PageSourceTest.searchSource" />
+        <item itemvalue="TestNG.PageSourceTest" />
+        <item itemvalue="TestNG.LoginpageTest" />
+        <item itemvalue="TestNG.NaveSearchTest" />
+        <item itemvalue="TestNG.HomePageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4535e649-b143-4eee-af3e-c4aad33841c0" name="Default Changelist" comment="" />
+      <created>1549335860763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549335860763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HomePageTest - 2019.02.11 at 12h 53m 21s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2019.02.11 at 13h 28m 56s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NaveSearchTest_setObjOfNavsearch - 2019.02.11 at 13h 58m 50s.xml">
+      <configuration name="NaveSearchTest.setObjOfNavsearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NaveSearchTest - 2019.02.11 at 13h 59m 06s.xml">
+      <configuration name="NaveSearchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2019.02.11 at 14h 01m 48s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NaveSearchTest - 2019.02.11 at 14h 06m 10s.xml">
+      <configuration name="NaveSearchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NaveSearchTest - 2019.02.11 at 14h 06m 43s.xml">
+      <configuration name="NaveSearchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginpageTest - 2019.02.11 at 14h 07m 04s.xml">
+      <configuration name="LoginpageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PageSourceTest - 2019.02.11 at 14h 07m 37s.xml">
+      <configuration name="PageSourceTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PageSourceTest_searchSource - 2019.02.11 at 14h 07m 57s.xml">
+      <configuration name="PageSourceTest.searchSource" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49470899" visible="true" weight="0.31983805" />
+      <window_info id="Structure" order="1" sideWeight="0.505291" side_tool="true" weight="0.30364373" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5044405" side_tool="true" weight="0.30445343" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.51675975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3676732" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3280788" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49470899" visible="true" weight="0.29878542" />
+      <window_info id="Structure" order="1" sideWeight="0.505291" side_tool="true" weight="0.30364373" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5044405" side_tool="true" weight="0.30445343" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.51675975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3676732" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3280788" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pageobjects/Hompage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pageobjects/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/objects/ContactUsPage.java" />
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/ExtentManager.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/application/ContactUsTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/main/java/page/objects/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/main/java/page/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/SearchPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/HomePageTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/ContactUsTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/UsingGoogleSheetLonginTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/application/SearchPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/FindAStorePageTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/application/HomePageTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/client_secret.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/secret.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/UsingGoogleSheetLoginPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="105" column="86" selection-start-line="105" selection-start-column="86" selection-end-line="105" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/com/reader/MyDataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/UsingGoogelSheetLoginPage.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <folding>
+            <element signature="docComment;method#compose#0;class#Function#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/sheet/google/api/GoogleSheetReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/UsingingGoogleSheetLoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="74" column="61" selection-start-line="74" selection-start-column="61" selection-end-line="74" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="43" column="90" lean-forward="true" selection-start-line="43" selection-start-column="90" selection-end-line="43" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="172" column="21" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="377" column="49" lean-forward="true" selection-start-line="377" selection-start-column="49" selection-end-line="377" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/SearchPage.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/SearchPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/application/page/base/ApplicationPageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="31" column="53" lean-forward="true" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/FindAStorePage.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/PageSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/ecommercefile.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/PageSourceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/LoginpageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/NaveSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/page/objects/ContactUsPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/ContactUsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/NavSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ecommerce</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

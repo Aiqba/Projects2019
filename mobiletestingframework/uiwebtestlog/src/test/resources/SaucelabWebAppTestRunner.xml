@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test suite on Android Phone">
+
+    <parameter name="OS" value="ios"/>
+    <parameter name="platformType" value="iPhone"/>
+    <parameter name="appType" value="iOSWeb"/>
+    <parameter name="deviceType" value="Simulator"/>
+  <!--  <parameter name="deviceName" value="iPhone 8"/>-->
+    <parameter name="deviceName" value="iPhone XS Max"/>
+    <parameter name="version" value="12.1"/>
+    <parameter name="moduleName" value="webapps.automation.practice"/>
+    <parameter name="browserName" value="Safari"/>
+    <parameter name="url" value="http://saucelabs.com/test/guinea-pig"/>
+
+
+    <test name="Home page" preserve-order="true">
+        <classes>
+            <class name="SauceLabHomePageTest"/>
+        </classes>
+    </test>
+</suite>

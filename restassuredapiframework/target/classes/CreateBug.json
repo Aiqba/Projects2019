@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       { 
+          "key": "REST"
+       },
+       "summary": "Creating issues from Restassured Api framework",
+       "description": "Creating issue form REST Automation Framework",
+       "issuetype": {
+          "name": "Bug"
+       }
+   }
+}

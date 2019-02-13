@@ -1,0 +1,16 @@
+{
+  "unlockType":"pattern",
+  "unlockKey": "1578",
+  "address": "127.0.0.1",
+  "app":"src/app/gmap.apk",
+  "device": "Asus",
+  "appPackage":"com.google.android.apps.maps",
+  "appWaitPackage":"com.google.android.maps.MapsActivity",
+  "automationName":"Appium",
+  "deviceName":"Asus",
+  "debugLogSpacing": true,
+  "fullReset": true,
+  "platformName": "Android",
+  "platformVersion":"5.0",
+  "port": "4723"
+}

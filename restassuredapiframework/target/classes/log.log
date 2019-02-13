@@ -1,0 +1,62 @@
+2019-02-12 14:02:55 DEBUG BasicClientConnectionManager:164 - Get connection for route {s}->https://samples.openweathermap.org:443
+2019-02-12 14:02:55 DEBUG DefaultClientConnectionOperator:176 - Connecting to samples.openweathermap.org:443
+2019-02-12 14:02:56 DEBUG RequestAddCookies:122 - CookieSpec selected: ignoreCookies
+2019-02-12 14:02:56 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+2019-02-12 14:02:56 DEBUG RequestTargetAuthentication:79 - Target auth state: UNCHALLENGED
+2019-02-12 14:02:56 DEBUG RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-02-12 14:02:56 DEBUG DefaultHttpClient:684 - Attempt 1 to execute request
+2019-02-12 14:02:56 DEBUG DefaultClientConnection:276 - Sending request: GET /data/2.5/weather?lat=35&lon=139&appid=b6907d289e10d714a6e88b30761fae22 HTTP/1.1
+2019-02-12 14:02:56 DEBUG wire:72 -  >> "GET /data/2.5/weather?lat=35&lon=139&appid=b6907d289e10d714a6e88b30761fae22 HTTP/1.1[\r][\n]"
+2019-02-12 14:02:56 DEBUG wire:72 -  >> "Accept: */*[\r][\n]"
+2019-02-12 14:02:56 DEBUG wire:72 -  >> "Content-Length: 0[\r][\n]"
+2019-02-12 14:02:56 DEBUG wire:72 -  >> "Host: samples.openweathermap.org[\r][\n]"
+2019-02-12 14:02:56 DEBUG wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-02-12 14:02:56 DEBUG wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_192)[\r][\n]"
+2019-02-12 14:02:56 DEBUG wire:72 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-02-12 14:02:56 DEBUG wire:72 -  >> "[\r][\n]"
+2019-02-12 14:02:56 DEBUG headers:280 - >> GET /data/2.5/weather?lat=35&lon=139&appid=b6907d289e10d714a6e88b30761fae22 HTTP/1.1
+2019-02-12 14:02:56 DEBUG headers:283 - >> Accept: */*
+2019-02-12 14:02:56 DEBUG headers:283 - >> Content-Length: 0
+2019-02-12 14:02:56 DEBUG headers:283 - >> Host: samples.openweathermap.org
+2019-02-12 14:02:56 DEBUG headers:283 - >> Connection: Keep-Alive
+2019-02-12 14:02:56 DEBUG headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_192)
+2019-02-12 14:02:56 DEBUG headers:283 - >> Accept-Encoding: gzip,deflate
+2019-02-12 14:02:57 DEBUG wire:72 -  << "HTTP/1.1 200 OK[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "Server: openresty/1.9.7.1[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "Date: Tue, 12 Feb 2019 19:02:55 GMT[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "ETag: W/"7f3dac2a055009b73f30538fb2208269"[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "Cache-Control: max-age=0, private, must-revalidate[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "X-Request-Id: 4c977d70-1d3a-417d-9be9-17249904a2b1[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "X-Runtime: 0.001138[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "Content-Encoding: gzip[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:72 -  << "[\r][\n]"
+2019-02-12 14:02:57 DEBUG DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 OK
+2019-02-12 14:02:57 DEBUG headers:264 - << HTTP/1.1 200 OK
+2019-02-12 14:02:57 DEBUG headers:267 - << Server: openresty/1.9.7.1
+2019-02-12 14:02:57 DEBUG headers:267 - << Date: Tue, 12 Feb 2019 19:02:55 GMT
+2019-02-12 14:02:57 DEBUG headers:267 - << Content-Type: application/json; charset=utf-8
+2019-02-12 14:02:57 DEBUG headers:267 - << Transfer-Encoding: chunked
+2019-02-12 14:02:57 DEBUG headers:267 - << Connection: keep-alive
+2019-02-12 14:02:57 DEBUG headers:267 - << X-Frame-Options: SAMEORIGIN
+2019-02-12 14:02:57 DEBUG headers:267 - << X-XSS-Protection: 1; mode=block
+2019-02-12 14:02:57 DEBUG headers:267 - << X-Content-Type-Options: nosniff
+2019-02-12 14:02:57 DEBUG headers:267 - << ETag: W/"7f3dac2a055009b73f30538fb2208269"
+2019-02-12 14:02:57 DEBUG headers:267 - << Cache-Control: max-age=0, private, must-revalidate
+2019-02-12 14:02:57 DEBUG headers:267 - << X-Request-Id: 4c977d70-1d3a-417d-9be9-17249904a2b1
+2019-02-12 14:02:57 DEBUG headers:267 - << X-Runtime: 0.001138
+2019-02-12 14:02:57 DEBUG headers:267 - << Content-Encoding: gzip
+2019-02-12 14:02:57 DEBUG DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-02-12 14:02:57 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:545 - Parsing response as: application/json; charset=utf-8
+2019-02-12 14:02:57 DEBUG wire:72 -  << "137[\r][\n]"
+2019-02-12 14:02:57 DEBUG wire:86 -  << "[0x1f]"
+2019-02-12 14:02:57 DEBUG wire:86 -  << "[0x8b]"
+2019-02-12 14:02:57 DEBUG wire:86 -  << "[0x8]"
+2019-02-12 14:02:57 DEBUG wire:86 -  << "[0x0]"
+2019-02-12 14:02:57 DEBUG wire:86 -  << "[0x0][0x0][0x0][0x0][0x0][0x3]"
+2019-02-12 14:02:57 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
